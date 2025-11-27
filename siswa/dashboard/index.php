@@ -440,7 +440,7 @@ foreach ($attendance_stats as $stat) {
             <div class="flex items-center gap-3">
                 <img src="../../assets/default/logo-smk40.png" alt="SMKN 40" class="h-8 lg:h-10 w-auto">
                 <div>
-                    <h1 class="font-semibold text-sm lg:text-base">SMKN 40</h1>
+                    <h1 class="font-semibold text-sm lg:text-base">SMK YADIKA</h1>
                     <p class="text-xs text-gray-400">Sistem Absensi</p>
                 </div>
             </div>
