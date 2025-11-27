@@ -200,7 +200,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         <!-- Footer -->
         <div class="text-center mt-8 text-gray-400 text-sm">
-            <p>&copy; <?= date('Y') ?> SMKN 40 Jakarta</p>
+            <p>&copy; <?= date('Y') ?> SMK Yadika Jambi</p>
             <p class="mt-1 text-gray-500">Sistem Informasi Absensi Siswa</p>
         </div>
 
