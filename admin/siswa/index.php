@@ -141,7 +141,7 @@ if (isset($_GET['delete']) && $_GET['delete'] == 'success') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Siswa - SMKN 40 Jakarta</title>
+    <title>Data Siswa - SMK Yadika Jambi</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <style>
@@ -223,9 +223,9 @@ if (isset($_GET['delete']) && $_GET['delete'] == 'success') {
     <aside id="sidebar" class="fixed top-0 left-0 h-screen w-64 glass-effect border-r border-purple-900/30 z-50 sidebar-transition -translate-x-full lg:translate-x-0">
         <div class="flex items-center justify-between p-4 lg:p-6 border-b border-purple-900/30">
             <div class="flex items-center gap-3">
-                <img src="../../assets/default/logo-smk40.png" alt="SMKN 40" class="h-8 lg:h-10 w-auto">
+                <img src="../../assets/default/logo_yadika.png" alt="SMK Yadika Jambi" class="h-8 lg:h-10 w-auto">
                 <div>
-                    <h1 class="font-semibold text-sm lg:text-base">SMKN 40</h1>
+                    <h1 class="font-semibold text-sm lg:text-base">SMK Yadika Jambi</h1>
                     <p class="text-xs text-gray-400">Sistem Absensi</p>
                 </div>
             </div>
@@ -300,7 +300,7 @@ if (isset($_GET['delete']) && $_GET['delete'] == 'success') {
                 <header class="flex flex-wrap justify-between items-center mb-6 gap-4">
                     <div>
                         <h1 class="text-xl md:text-2xl font-bold">Data Siswa</h1>
-                        <p class="text-gray-400 text-sm md:text-base">Kelola data siswa SMKN 40 Jakarta</p>
+                        <p class="text-gray-400 text-sm md:text-base">Kelola data siswa SMK Yadika Jambi</p>
                     </div>
                     <div class="hidden sm:block">
                         <a href="add.php" class="px-4 py-2 bg-purple-600 hover:bg-purple-700 rounded-lg flex items-center gap-2 text-sm font-medium transition-colors">
