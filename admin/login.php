@@ -103,12 +103,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <div class="max-w-md w-full mx-4 relative z-10">
         <!-- Logo & Title -->
         <div class="text-center mb-8">
-            <img src="../assets/default/logo-smk40.png" alt="SMKN 40"
+            <img src="../assets/default/logo_yadika.png" alt="SMK YADIKA JAMBI"
                 class="h-24 mx-auto mb-4 drop-shadow-[0_0_15px_rgba(147,51,234,0.5)]">
             <h2 class="text-3xl font-bold text-white mb-2 text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-purple-600">
                 Login Admin
             </h2>
-            <p class="text-gray-400">Sistem Absensi SMKN 40 Jakarta</p>
+            <p class="text-gray-400">Sistem Absensi SMK Yadika Jambi</p>
         </div>
 
         <!-- Login Form -->
@@ -165,7 +165,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         <!-- Footer -->
         <div class="text-center mt-8 text-gray-400 text-sm">
-            <p>&copy; <?= date('Y') ?> SMKN 40 Jakarta</p>
+            <p>&copy; <?= date('Y') ?> SMK Yadika Jambi</p>
             <p class="mt-1 text-gray-500">Sistem Informasi Absensi Siswa</p>
         </div>
     </div>
