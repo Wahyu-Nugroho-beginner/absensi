@@ -63,7 +63,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login Siswa - SMKN 40 Jakarta</title>
+    <title>Login Siswa - SMK Yadika Jambi</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <style>
@@ -131,7 +131,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <!-- Login Card -->
         <div class="mb-8 text-center">
             <!-- School Logo -->
-            <img src="../assets/default/logo-smk40.png" alt="SMKN 40 Jakarta"
+            <img src="../assets/default/logo_yadika.png" alt="SMK Yadika Jambi"
                 class="h-24 mx-auto drop-shadow-lg">
 
             <!-- Animated Badge -->
@@ -200,7 +200,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         <!-- Footer -->
         <div class="text-center mt-8 text-gray-400 text-sm">
-            <p>&copy; <?= date('Y') ?> SMKN 40 Jakarta</p>
+            <p>&copy; <?= date('Y') ?> SMK Yadika Jambi</p>
             <p class="mt-1 text-gray-500">Sistem Informasi Absensi Siswa</p>
         </div>
 
