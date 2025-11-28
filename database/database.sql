@@ -267,7 +267,7 @@ CREATE TABLE `siswa` (
   `nis` varchar(20) COLLATE utf8mb4_general_ci NOT NULL,
   `nama_lengkap` varchar(100) COLLATE utf8mb4_general_ci NOT NULL,
   `kelas` enum('10','11','12') COLLATE utf8mb4_general_ci NOT NULL,
-  `jurusan` enum('RPL','DKV','AK','BR','MP') COLLATE utf8mb4_general_ci NOT NULL,
+  `jurusan` enum('RPL','DKV','AK','BR','MP','TKJ') COLLATE utf8mb4_general_ci NOT NULL,
   `email` varchar(100) COLLATE utf8mb4_general_ci NOT NULL,
   `password` varchar(255) COLLATE utf8mb4_general_ci NOT NULL,
   `foto_profil` varchar(255) COLLATE utf8mb4_general_ci DEFAULT 'assets/default/photo-profile.png',

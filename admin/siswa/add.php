@@ -355,6 +355,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                     <option value="AK">AK</option>
                                     <option value="BR">BR</option>
                                     <option value="MP">MP</option>
+                                    <option value="TKJ">TKJ</option>
                                 </select>
                             </div>
 
